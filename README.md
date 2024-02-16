@@ -16,7 +16,6 @@ ROL 0: login: Paten + password: ae0e200a7bf49b3f6d19897a366fded5
 
 8 y 9) Se ha creado los ficheros:
 Usuario.php y usuario.sql para la creación de los usuarios de acceso.
-
 login.php para el acceso.
 list_1.php para la vista del rol 0.
 bloqueo.php para mostrar que se ha llegado al número de intentos y ha de reiniciar el navegador.
