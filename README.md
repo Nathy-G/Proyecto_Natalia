@@ -1,5 +1,7 @@
 ACESSOS:
+
 ROL 1: login: Mathew + password: 8d84bf9e0e6c6d7850adbf4e03c67e6a
+
 ROL 0: login: Paten + password: ae0e200a7bf49b3f6d19897a366fded5
 
 1)	Se ha arreglado la paginación entre clientes, tanto hacia delante como hacia atrás.  Esto se puede ver en AcessoDatosPDO.php --> getClienteAnterior/Siguiente.
